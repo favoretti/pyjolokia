@@ -1,0 +1,11 @@
+python-pyjolokia (0.1.1-5) precise; urgency=low
+
+  * Version bump
+
+ -- vllazarenko <vllazarenko@ebay.com>  Fri, 22 Mar 2013 11:09:04 +0100
+
+python-pyjolokia (0.1.1-4) stable; urgency=low
+
+  * Initial release. (Closes: all the doors)
+
+ -- vllazarenko <vllazarenko@ebay.com>  Fri, 22 Mar 2013 11:06:49 +0100
